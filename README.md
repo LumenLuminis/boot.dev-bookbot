@@ -1,1 +1,3 @@
-THIS IS A BOOT.DEV GUIDED PROJECT
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
